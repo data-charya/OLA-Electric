@@ -1,16 +1,3 @@
-# olaelectric
+# OLA Electric
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|<img src="https://user-images.githubusercontent.com/62848565/134814326-2b1c2b71-e0ce-4e71-bf0b-2b0efba337ee.png" width=200 height=400>|<img src="https://user-images.githubusercontent.com/62848565/134814387-ec268889-7007-4d7e-8017-0b14ee6ebb76.png" width=200 height=400>|<img src="https://user-images.githubusercontent.com/62848565/134814395-57c25d87-a479-4518-a561-83548747e6b4.png" width=200 height=400>|<img src="https://user-images.githubusercontent.com/62848565/134814399-ef24f1bb-a3b8-4bd4-b5d7-58d91ae677d8.png" width=200 height=400>|
