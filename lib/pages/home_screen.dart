@@ -470,24 +470,25 @@ class HomeScreen extends StatelessWidget {
                             width: 120,
                             height: 30,
                             child: Container(
-                                decoration: BoxDecoration(
-                                  gradient: const LinearGradient(
-                                    colors: [
-                                      Color(0xff16AB51),
-                                      Color(0xff60BE85),
-                                    ],
-                                  ),
-                                  borderRadius: BorderRadius.circular(10),
+                              decoration: BoxDecoration(
+                                gradient: const LinearGradient(
+                                  colors: [
+                                    Color(0xff16AB51),
+                                    Color(0xff60BE85),
+                                  ],
                                 ),
-                                child: Center(
-                                  child: Text(
-                                    "Reserve",
-                                    style: GoogleFonts.montserrat(
-                                        fontSize: 15,
-                                        fontWeight: FontWeight.w600,
-                                        color: Colors.white),
-                                  ),
-                                )),
+                                borderRadius: BorderRadius.circular(10),
+                              ),
+                              child: Center(
+                                child: Text(
+                                  "Reserve",
+                                  style: GoogleFonts.montserrat(
+                                      fontSize: 15,
+                                      fontWeight: FontWeight.w600,
+                                      color: Colors.white),
+                                ),
+                              ),
+                            ),
                           ),
                         )
                       ],
